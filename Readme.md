@@ -1,3 +1,5 @@
+[![Docker Image CI](https://github.com/mosakrm0/DevOps-Project/actions/workflows/ci.yml/badge.svg)](https://github.com/mosakrm0/DevOps-Project/actions/workflows/ci.yml)
+
 # SimpleApp 
 
 A lightweight Python web application containerized with Docker and deployable to Kubernetes via Minikube.
