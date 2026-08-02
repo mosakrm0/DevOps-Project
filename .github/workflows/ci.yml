@@ -30,5 +30,3 @@ jobs:
             
     - name: Push to Docker
       run: docker push mosakrmoov/mosakrmoov
-      
-
